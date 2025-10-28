@@ -1,14 +1,14 @@
-# Noise handshake protocol in Nim
+# Noise Protocol Framework implementation in Nim
 
 ## Usage
 
-Install the package
+Install the package,
 
 ```shell
-nimble install https://github.com/threeproto/nim-noise.git
+nimble install noiseprotocol
 ```
 
-Checkout the examples in the `examples` folder.
+See the usage in the `examples` folder.
 
 ## Development
 
@@ -21,3 +21,4 @@ nimble nn
 
 # Run the Noise XX pattern
 nimble xx
+```
