@@ -1,7 +1,7 @@
 # Package
 
 packageName   = "noiseprotocol"
-version       = "0.0.1"
+version       = "0.0.2"
 author        = "kaichaosun"
 description   = "A new awesome nimble package"
 license       = "MIT"
